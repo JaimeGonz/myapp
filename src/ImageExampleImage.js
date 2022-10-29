@@ -1,7 +1,5 @@
-import React from 'react'
-import { Image } from 'semantic-ui-react'
-
 import React from 'react';
+import { Image } from 'semantic-ui-react';
 
 function ImageExampleImage() {
   return (
@@ -12,4 +10,4 @@ function ImageExampleImage() {
   );
 }
 
-export default ImageExampleImage
+export default ImageExampleImage;
